@@ -1,10 +1,9 @@
 <div id="header" align="center">
     <img src=https://media2.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif?cid=ecf05e47yqdppgohv2x2glpe0aa9jpg8i2jd9hpwb0hkz6vp&ep=v1_gifs_search&rid=giphy.gif&ct=g width="290"/>
-    <h1 align="center">Hola 👋, soy Luisa Velasquez</h1>
-    <h3 align="center">Una apasionante web fullstack  de Colombia.</h3>
+    <h1 align="center">Hola, soy Luisa Fernanda</h1>
+    <h3 align="center">Una apasionante web fullstack de Colombia.</h3>
 </div>
 ---
-
 ### 👨‍💻 Sobre mi :
 
 - 📝 Me gusta desarrollar páginas web

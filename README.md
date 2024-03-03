@@ -1,32 +1,34 @@
+</br>
 <div id="header" align="center">
     <img src=https://media2.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif?cid=ecf05e47yqdppgohv2x2glpe0aa9jpg8i2jd9hpwb0hkz6vp&ep=v1_gifs_search&rid=giphy.gif&ct=g width="290"/>
+    </br> 
     <h1 align="center">Hola, soy Luisa Fernanda</h1>
     <h3 align="center">Una apasionante web fullstack de Colombia.</h3>
 </div>
+</br>
+
+
+### Lenguajes  </br>
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3)
+![PHP](https://img.shields.io/badge/-php-000000?style=for-the-badge&logo=PHP)
+![eclipse](https://img.shields.io/badge/-eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MySQL)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+
+### Algunas de las tecnologías con las que he trabajado</br>
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+</br></br>
 ---
-### 👨‍💻 Sobre mi :
 
-- 📝 Me gusta desarrollar páginas web
+<p align="center">
+  <i>¡charlemos!</i>
 
-- 📫 Como contactarme **luisafernandavelasquezmejia@gmail.com**
-
-- 🌱 Actualmente estoy aprendiendo **Node.js**
-  
-<div align="left">
-    <h3>🔨 Lenguajes y herramientas:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div>
-</div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanditavelasquez&show_icons=true&locale=en&layout=compact" alt="nanditavelasquez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanditavelasquez&" alt="nanditavelasquez" /></p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nanditavelasquez" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+   <a href="mailto:luisafernandavelasquezmejia@gmail.com" alt="gmail"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp"height="30" width="30"></a>
+<a href="https://t.me/ferrvelasquez" alt="gmail"><img src="https://github.com/badges/shields/blob/master/logo/telegram.svg"height="30" width="30"></a>
+  </p>

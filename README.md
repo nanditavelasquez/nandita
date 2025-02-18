@@ -30,5 +30,5 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/nanditavelasquez" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
    <a href="mailto:luisafernandavelasquezmejia@gmail.com" alt="gmail"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp"height="30" width="30"></a>
-<a href="https://t.me/ferrvelasquez" alt="gmail"><img src="https://github.com/badges/shields/blob/master/logo/telegram.svg"height="30" width="30"></a>
+<a href="https://t.me/ferrvelasquez" alt="Telegram"><img src="https://github.com/badges/shields/blob/master/logo/telegram.svg"height="30" width="30"></a>
   </p>
